@@ -37,6 +37,8 @@ The `Dog` includes a foreign key to the `Breed` endpoints for dog breed at `/dog
  - Used ModelViewSet
  - Tested the API    
 
+### Note 
+I was trying to put it on heroku so settings are modified but complete. Its working fine on dev.
 
 ## Ref
 
