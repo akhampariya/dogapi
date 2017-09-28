@@ -36,6 +36,24 @@ The `Dog` includes a foreign key to the `Breed` endpoints for dog breed at `/dog
  - migrated database to include tables for `Dog` and `Breed`
  - Used ModelViewSet
  - Tested the API    
+### Test Screenshots
+Add a New Dog !
+![Dog Add](Dog%20Add.png)
+
+All Dog List !
+![Dog Add](Dog%20List.png)
+
+Dog Delete/Update !
+![Dog Add](Dog%20Delete.png)
+
+Add a New Dog Breed !
+![Dog Add](BreedAdd.png)
+
+Add a New Dog Breed !
+![Dog Add](BreedList.png)
+
+Dog Breed Delete/Update !
+![Dog Add](BreedDelete.png)
 
 ### Note 
 I was trying to put it on heroku so settings are modified but complete. Its working fine on dev.
