@@ -29,7 +29,6 @@ PyYAML==3.11
 requests==2.18.4
 six==1.10.0
 texttable==0.8.1
-unity-lens-photos==1.0
 urllib3==1.22
 websocket-client==0.18.0
 whitenoise==3.3.1
