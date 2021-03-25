@@ -25,7 +25,7 @@ pyasn1==0.1.9
 Pygments==2.2.0
 pyOpenSSL==0.15.1
 pytz==2017.2
-PyYAML==3.11
+PyYAML==5.4
 requests==2.18.4
 six==1.10.0
 texttable==0.8.1
